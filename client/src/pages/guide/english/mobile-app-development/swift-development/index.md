@@ -25,6 +25,7 @@ This is my curated list of awesome Swift and iOS Resources for becoming a self-t
 
 * [Swift Programming - Big Nerd Ranch Guide](https://www.bignerdranch.com/books/swift-programming/)
 * [Hacking with Swift](https://www.hackingwithswift.com/read)
+* [App Development with Swift - Swift 4 Edition](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11)
 
 #### Video Tutorials
 
