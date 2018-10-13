@@ -28,3 +28,5 @@ Tools to Create a Visual Hierarchy: <a href='https://designschool.canva.com/blog
 Case Study - Improving a Page with Visual Hierarchy: <a href='http://blog.formedfunction.com/post/3029763425/on-visual-hierarchy' target='_blank' rel='nofollow'>blog</a>
 
 Adding Visual Hierarchy: <a href='https://medium.com/designed-thought/8-ways-to-add-visual-hierarchy-8820be73218a/' target='_blank'>Medium</a>
+
+Copywriting in UI. Words That Make Design Go Round: <a href='https://tubikstudio.com/copywriting-in-ui-words-that-make-design-go-round/' target='_blank'>Medium</a>
