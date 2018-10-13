@@ -30,6 +30,7 @@ This is my curated list of awesome Swift and iOS Resources for becoming a self-t
 
 * [Swift Track - Team Treehouse](https://teamtreehouse.com/tracks/learn-swift)
 * [The iOS Developer Nanodegree - Udacity](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
+* [iOS 12 & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/)
 
 #### Youtube Playlists
 
